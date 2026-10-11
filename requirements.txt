@@ -8,3 +8,21 @@ faiss-cpu
 chromadb
 langchain-groq
 python-dotenv
+
+# Core LLM & Framework
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-groq
+python-dotenv
+
+# Embeddings & Vector Store
+sentence-transformers
+chromadb
+numpy
+
+# Document Loaders & File Parsers
+pypdf
+pymupdf
+pandas
+openpyxl
